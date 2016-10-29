@@ -1,0 +1,14 @@
+{
+    "name": "herenchang/composer",
+    "description": "a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rechang He",
+            "email": "425011363@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
